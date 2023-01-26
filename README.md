@@ -1,2 +1,2 @@
-# 3x+1
+# data visualisation
 3x+1 project in python
